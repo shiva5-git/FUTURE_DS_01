@@ -34,4 +34,4 @@ This repository contains a **Power BI Sales Dashboard** that provides insights i
 - There is a significant gap between **Budgeted Amount vs Actual Sales**.  
 - Product-level analysis helps identify top-performing and underperforming items.  
 
-## 📂 Repository Structure
+
